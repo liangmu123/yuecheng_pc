@@ -1,0 +1,36 @@
+{
+	"StatisticEventList": [{
+		"ProblemName": "区域一",
+		"ProblemCount": 120,
+		"ProblemSolveCount": 6,
+		"ProblemPercentage": 4.76
+	}, {
+		"ProblemName": "区域二",
+		"ProblemCount": 3000,
+		"ProblemSolveCount": 40,
+		"ProblemPercentage": 1.32
+	}, {
+		"ProblemName": "区域三",
+		"ProblemCount": 700,
+		"ProblemSolveCount": 2,
+		"ProblemPercentage": 0.28
+	}, {
+		"ProblemName": "区域四",
+		"ProblemCount": 609,
+		"ProblemSolveCount": 2,
+		"ProblemPercentage": 4.67
+	}, {
+		"ProblemName": "区域五",
+		"ProblemCount": 766,
+		"ProblemSolveCount": 20,
+		"ProblemPercentage": 2.54
+	}, {
+		"ProblemName": "区域六",
+		"ProblemCount": 690,
+		"ProblemSolveCount": 12,
+		"ProblemPercentage": 1.71
+	}],
+	"IsSuccess": true,
+	"Message": "操作成功！",
+	"Time": "2018年1-4月"
+}

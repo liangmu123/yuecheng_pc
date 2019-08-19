@@ -1,0 +1,26 @@
+{
+	"StatisticEventList": [{
+		"ProblemName": "20~30岁",
+		"ProblemCount": 0,
+		"ProblemPercentage": 22.06
+	}, {
+		"ProblemName": "30~40岁",
+		"ProblemCount": 9,
+		"ProblemPercentage": 13.24
+	}, {
+		"ProblemName": "40~50岁",
+		"ProblemCount": 11,
+		"ProblemPercentage": 16.18
+	}, {
+		"ProblemName": "50~60岁",
+		"ProblemCount": 10,
+		"ProblemPercentage": 14.71
+	}, {
+		"ProblemName": "60岁以上",
+		"ProblemCount": 9,
+		"ProblemPercentage": 13.24
+	}],
+	"IsSuccess": true,
+	"Message": "操作成功！",
+	"Time": "2018年1-4月"
+}

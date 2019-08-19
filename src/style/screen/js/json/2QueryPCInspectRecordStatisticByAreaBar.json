@@ -1,0 +1,26 @@
+{
+	"StatisticRecordList": [{		
+		"AreaName": "第一名",
+		"HandledCount": 470,
+		"PlanedCount": 180
+	}, {		
+		"AreaName": "第二名",
+		"HandledCount": 350,
+		"PlanedCount": 169
+	}, {		
+		"AreaName": "第三名",
+		"HandledCount": 318,
+		"PlanedCount": 152
+	}, {	
+		"AreaName": "第四名",
+		"HandledCount": 289,
+		"PlanedCount": 132
+	}, {	
+		"AreaName": "第五名",
+		"HandledCount": 265,
+		"PlanedCount": 107
+	}],
+	"IsSuccess": true,
+	"Message": "操作成功！",
+	"Time": "2018年1-4月"
+}

@@ -1,0 +1,46 @@
+body{
+	/* background-image: url(../assets/img/bg.png); */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+	/*overflow-y:hidden;*/
+}
+
+.login_div{
+	width: 70rem;
+	height: 40rem;
+	overflow: hidden;
+    background-image: url(../assets/img/z9.png);
+    background-repeat: no-repeat;
+    background-size: 90% 95%;
+   	position: relative;
+   	top: 7rem;
+   	left: 50rem;
+}
+
+.form_div{
+	width: 30rem;
+	height: 13rem;
+	position: relative;
+	top: 19rem;
+	left: 14rem;
+}
+
+.form-group{
+	margin-bottom: 0.5rem !important;
+}
+
+.code img{
+	position: relative;
+	top: 0.5rem;
+}
+
+.btn_submit{
+	width: 11rem;
+	background: red;
+	color: white;
+}
+
+.btn_submit:hover{
+	color: white !important;
+}

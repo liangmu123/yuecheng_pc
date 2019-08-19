@@ -1,0 +1,58 @@
+
+
+*{
+	font-family: "仿宋";
+	font-size: 16px;
+}
+
+
+
+body a:hover{
+	text-decoration: none;
+	color: #000000;
+}
+
+html a{
+	text-decoration: none;
+	color: #000000;
+}
+
+html a:hover{
+	text-decoration: none;
+	color: #000000;
+}
+
+
+body {
+    position: relative;
+    /* background: url(../assets/img/back.png) no-repeat center; */
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+.li_style{
+	background-color: white;
+	width: 12rem;
+	margin-right: 2rem;
+	text-align: center;
+	border-radius: 10%;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: white !important;
+    width: 12rem;
+    cursor: default;
+    background-color: red !important;
+    border: 1px solid #ddd;
+    border-radius: 10%;
+    border-bottom-color: transparent;
+}
+
+.padding_tabpanel{
+	padding-top: 3rem;
+}
+
+.label_width{
+	width: 10% !important;
+}

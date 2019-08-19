@@ -1,0 +1,172 @@
+body{
+	background-image: url(../../assets/img/TJ_BJ.jpg);
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	overflow-y:scroll;
+}
+
+.btncss {
+    width: 80px;
+    height: 32px;
+    padding: 0px;
+    background-color: #1296db;
+    font-size:14px;
+}
+
+.btnimgcss {
+    width: 12px;
+    height: 12px;
+    margin-top: -7px;
+}
+
+.btnimgcssace
+{
+    width: 12px;
+    height: 12px;
+    margin-top: -17px;
+}
+
+
+.btnspanace {
+    font-size: 14px;
+    position: relative;
+    top: -7px;
+}
+
+
+.btnspan {
+    font-size: 14px;
+    position: relative;
+    top:-2px;
+}
+
+.inputdatatime {
+    height: 32px;
+    font-size: 15px;
+}
+
+.selectcss {
+    margin-right:5px;
+    float: left;
+    height: 32px;
+    font-size: 15px;
+    line-height: 32px;
+    padding: 0px;
+    display: block;
+    width: 70px;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.spancss {
+    float:left;
+}
+
+.tblForm th {
+    width: 140px;
+    background-color: #6cbfee;
+    text-align: center;
+    color: #FFF;
+    font-weight: normal;
+    font-size: 15px;
+    border: 1px solid #6495ED;
+}
+
+.tblForm td {
+    width: 220px;
+    background-color: #FFF;
+    padding: 3px 10px 3px 20px;
+    border: 1px solid #b2c7ee;
+    height: 36px;
+    font-size: 15px;
+}
+
+ .tblForm td input {
+     height: 32px;
+     font-size: 13px;
+     width: 120px;
+     display: inherit;
+ }
+ .tblForm td label {
+        font-weight:lighter;
+        height: 24px;
+        font-size: 14px;
+        width: 100%;
+        padding:0px;
+        margin:0px;
+        line-height:24px;
+        display:inherit;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+    background-color: #6A5ACD;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px #FFF;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px #FFF;
+    background-color: #4682B4;
+}
+a:hover {
+    cursor: pointer;
+    text-decoration: none;
+    color: #3582c4;
+}
+
+a {
+    font-family:"Microsoft YaHei";
+    color: #3582c4;
+    text-decoration: none;
+}
+
+body {
+    font-family: "Microsoft YaHei";
+    font-size: 13px;
+    color: #333;
+}
+.container {
+    width:100%;
+}
+
+div, input, span, select, button, img, label, table, textarea {
+    font-family: "Microsoft YaHei";
+    font-size: 13px;
+}
+
+table thead tr th {
+    font-size: 14px;
+    text-align: center
+}
+thead {
+    background-color: #D3D3D3;
+  
+}
+/*th {
+    border: none;
+}*/
+.tabspan {
+    font-family: "Microsoft YaHei";
+    font-size: 15px;
+    color: orange;
+}
+.modelbtn{
+    font-size:16px;
+}
+.navigationbar{
+    font-size:16px;
+}

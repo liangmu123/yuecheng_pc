@@ -1,0 +1,39 @@
+html{
+    padding: 0;
+}
+
+
+.header_left {
+
+    height: 50px;
+}
+
+.header_right {
+    padding-top: 10px;
+    height: 50px;
+}
+
+.column_div{
+
+    height: 0.8rem;
+}
+
+.plate_left{
+
+    height: 1.7rem;
+}
+
+.plate_middle{
+
+    height: 1.7rem;
+}
+
+.plate_right{
+
+    height: 1.7rem;
+}
+
+.header_img img{
+    width: 1.6rem;
+    margin: 0.1rem 0.3rem;
+}

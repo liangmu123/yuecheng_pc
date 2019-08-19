@@ -1,0 +1,42 @@
+{
+	"StatisticRecordList": [{		
+		"AreaName": "农村一支部",
+		"HandledCount": 85
+	}, {		
+		"AreaName": "农村二支部",
+		"HandledCount": 108
+	}, {
+		"AreaName": "农村三支部",
+		"HandledCount": 69
+	}, {
+		"AreaName": "大学生支部",
+		"HandledCount": 72
+	},{		
+		"AreaName": "工业支部",
+		"HandledCount": 6
+	}, {		
+		"AreaName": "港西支部",
+		"HandledCount": 5
+	}, {
+		"AreaName": "宏瑞支部",
+		"HandledCount": 3
+	}, {
+		"AreaName": "汇中支部",
+		"HandledCount": 4
+	},{		
+		"AreaName": "江顺支部",
+		"HandledCount": 13
+	}, {		
+		"AreaName": "鑫裕支部",
+		"HandledCount": 16
+	}, {
+		"AreaName": "延利支部",
+		"HandledCount": 4
+	}, {
+		"AreaName": "爱多支部",
+		"HandledCount": 22
+	}],
+	"IsSuccess": true,
+	"Message": "操作成功！",
+	"Time": "2018年1-4月"
+}
